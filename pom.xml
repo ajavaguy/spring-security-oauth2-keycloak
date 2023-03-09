@@ -19,7 +19,6 @@
 	</properties>
 	<modules>
 		<module>spring-security-oauth2-keycloak-demo</module>
-		<module>oauth2-pkce</module>
 		<module>spring-security-oauth2-credentials</module>
 	</modules>
 </project>
